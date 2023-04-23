@@ -3,7 +3,7 @@ import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
-url = "http://www.learncontrolsystems.com/cse/index.htm"
+url = "https://www.yoururl.com"
 
 #If there is no such folder, the script will create one automatically
 folder_location = r'D:\dev\site_scraper\output'
